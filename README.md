@@ -37,16 +37,15 @@ This project implements an attendance management system based on face recognitio
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(31).png">
+<img src="https://github.com/atul21mangla/Face-Recognition-Attendance_system/blob/e346794f91c9eff2d675ede234d39db581b3e7a1/images/Screenshot%202025-01-11%20221747.png">
 
 ### When it Recognises me
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
+<img src="https://github.com/atul21mangla/Face-Recognition-Attendance_system/blob/e346794f91c9eff2d675ede234d39db581b3e7a1/images/Screenshot%202025-01-11%20221811.png">
 
 ### While filling automatic attendance
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(38).png">
+<img src="https://github.com/atul21mangla/Face-Recognition-Attendance_system/blob/e346794f91c9eff2d675ede234d39db581b3e7a1/images/Screenshot%202025-01-11%20222511.png">
 
-### Manually attendance filling UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
+<img src="https://github.com/atul21mangla/Face-Recognition-Attendance_system/blob/e346794f91c9eff2d675ede234d39db581b3e7a1/images/Screenshot%202025-01-11%20222754.png">
 
 
 ### Troubleshooting
